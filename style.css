@@ -5,20 +5,32 @@ h1{
 }
 body{
     background-color: blueviolet;
+    font-size:medium;
+    text-align: justify;
 }
 button{
     border-color: white;
     border-radius: 10px 10px 10px 10px;
     background-color: white;
+    font-size: medium;
+    text-align: center;
 }
 a{
-    color: blueviolet;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 3px;
+    display: block;
+    text-align:justify;
+    margin: 10px;
+    color:slateblue;
 }
 
 li{
     color:white;
-    font-style: italic;
+    font-size:x-large;
+    font-style:italic;
+    text-align:justify;
 }
 h4{
-    color:white
+    color:white;
 }
